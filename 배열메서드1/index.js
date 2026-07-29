@@ -58,5 +58,3 @@ console.log(sliceArray);
 const users = ["우리", "보리", "하늘"];
 
 const userMap = users.map((el) => el + "님");
-
-console.log(userMap);
